@@ -1,3 +1,7 @@
+*.manifest binary
+*.application binary
+*.deploy binary
+
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
@@ -12,9 +16,7 @@
 ###############################################################################
 #*.cs     diff=csharp
 
-*.manifest binary
-*.application binary
-*.deploy binary
+
 
 ###############################################################################
 # Set the merge driver for project and solution files
